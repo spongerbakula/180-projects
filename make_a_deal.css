@@ -1,0 +1,60 @@
+body {
+	background-color: #333333;
+	font-family: 'Bigelow Rules', Arial;
+	
+}
+
+#wrapper {
+	width: 1000px;
+	max-width: 90%;
+	margin: auto;
+}
+
+.text_container {
+	width: 80%;
+	margin: 5% auto;
+	text-align: center;
+}
+
+.img_container {
+	width: 80%;
+	margin: 5% auto;
+	text-align: center;
+}
+
+.door {
+	display:inline-block;
+	margin: 10px 20px;
+}
+
+#title {
+	font-size: 70px;
+	color: #FEF8F1;
+}
+
+#host {
+	font-size: 40px;
+	color: #FEF8F1;
+	text-align: center;
+
+}
+
+.thing_containter {
+	margin: 0 auto;
+	
+}
+
+a:link {
+	color: #fd8e45;
+}
+
+a:visited {
+	color: #fd8e45;
+}
+
+
+
+
+
+
+
