@@ -1,0 +1,196 @@
+body {
+	background-color: #AAA;
+}
+
+h1 {
+	font-family: 'Sintony', sans-serif;
+	text-align: center;
+	text-shadow: -1px -1px 1px #FDFDFD;
+}
+
+.header {
+	margin: 15px auto;
+}
+
+#board {
+	width: 850px;
+	height: 500px;
+	background-color: #FFFFE0;
+	margin: 10px auto;
+	box-shadow: 0px 0px 8px #000;
+	padding: 40px 40px;
+
+}
+
+#canvas {
+	height: 500px;
+	width: 700px;
+	float: right;
+	border: 2px solid black;
+	
+}
+
+#colors {
+	float: left;
+}
+
+.color {
+	height: 50px;
+	width: 50px;
+	margin: 15px 20px;
+	border: 2px solid gray;
+}
+
+#red {
+	background-color: red;
+}
+
+#blue {
+	background-color: blue;
+}
+
+#yellow {
+	background-color: yellow;
+
+}
+
+#white {
+	background-color: white;
+}
+
+#row1 {
+	height: 100px;
+	border-bottom: 10px solid black;
+}
+
+#row2 {
+	height: 170px;
+	border-bottom: 10px solid black;
+}
+
+#row3 {
+	height: 80px;
+	border-bottom: 10px solid black;
+}
+
+#row4 {
+	height: 150px;
+	
+}
+
+#R1B1 {
+   float: left;
+   width: 130px;
+   height: 100px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R1B2 {
+   float: left;
+   width: 300px;
+   height: 100px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R1B3 {
+   float: left;
+   width: 90px;
+   height: 100px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R1B4 {
+   float: right;
+   width: 150px;
+   height: 100px;
+   background: white;
+ }
+ 
+ #R2B1 {
+   float: left;
+   width: 130px;
+   height: 170px;
+   border-right: 10px solid black;
+   border-bottom: 10px solid black;
+   background: white;
+ }
+ #R2B2 {
+   float: left;
+   width: 300px;
+   height: 170px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R2B3 {
+   float: left;
+   width: 90px;
+   height: 170px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R2B4 {
+   float: right;
+   width: 150px;
+   height: 170px;
+   background: white;
+ }
+ 
+ #R3B1 {
+   float: left;
+   width: 130px;
+   height: 80px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R3B2 {
+   float: left;
+   width: 300px;
+   height: 80px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R3B3 {
+   float: left;
+   width: 90px;
+   height: 80px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R3B4 {
+   float: right;
+   width: 150px;
+   height: 80px;
+   background: white;
+ }
+ 
+ #R4B1 {
+   float: left;
+   width: 130px;
+   height: 120px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R4B2 {
+   float: left;
+   width: 300px;
+   height: 120px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R4B3 {
+   float: left;
+   width: 90px;
+   height: 120px;
+   border-right: 10px solid black;
+   background: white;
+ }
+ #R4B4 {
+   float: right;
+   width: 150px;
+   height: 120px;
+   background: white;
+ }
+
+
+
+
