@@ -1,0 +1,74 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+#wrapper {
+	overflow: auto;
+	padding: 0px 0px;
+}
+
+#header {
+	width: 700px;
+	height: 100px;
+	margin: 0px auto;
+	background-color: #F1C40F;
+
+}
+
+.tab {
+	position: relative;
+	float: left;
+	height: 100px;
+	width: 100px;
+
+	
+}
+
+.day {
+	font-size: 1.8em;
+	color: #f39c12;
+	font-family: sans-serif;
+	position: absolute;
+	bottom: 30px;
+	left: 10px;
+	padding: 5px;
+	text-align: center;
+
+}
+
+
+#block {
+	width: 100%;
+	
+	background-color: #16A085;
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+	text-shadow: -2px 2px 0px #baabab;
+	text-align: center;
+	padding: 50px;
+	
+
+}
+#today {
+	background-color: #16A085;
+	height: 350px;
+	
+		
+
+}
+
+#today .day {
+	
+	font-size: 1.8em;
+	color: #f6f8f8;
+	text-shadow: -2px 2px 0px #baabab;	
+}
+
+#clear {
+	clear: both;
+}
+
+
